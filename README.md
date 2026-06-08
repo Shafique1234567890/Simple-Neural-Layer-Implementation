@@ -4,8 +4,6 @@ This repository contains a foundational Python script demonstrating the core "bu
 ## 📌 Project Overview
 This repository contains a professional implementation of a feedforward neural network built using TensorFlow and Keras. The project focuses on binary classification of tabular data, incorporating data preprocessing, regularization techniques, and model evaluation metrics.
 
----
-
 ## 🛠️ Tech Stack & Libraries Used
 1. **Google Colab** (Development Environment)
 2. **Python** (Core Language)
